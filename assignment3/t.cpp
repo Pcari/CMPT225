@@ -24,7 +24,7 @@ int main (int argc, char * const argv[]) {
 	int height = 0;
 	int bytes = 0;
 
-    cout << "\n\nbtree_set Class Test Program 1 - START\n\n";
+    cout << "\n\nbtree_set class Test Program 1 - START\n\n";
 	
 	// Make a btree_set, and verify that empty() says it is empty.
 
