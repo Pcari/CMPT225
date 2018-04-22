@@ -1,0 +1,2 @@
+g++ -std=c++11 -c t.cpp
+makefile:7: recipe for target 't.o' failed
